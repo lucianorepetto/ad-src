@@ -1,18 +1,18 @@
 [
     {
         "name": "DONUT",
-        "image": "src/shop/donuts.webp"
+        "image": "./src/shop/donuts.webp"
     },
     {
         "name": "DAVID HEAD",
-        "image": "src/shop/david.webp"
+        "image": "./src/shop/david.webp"
     },
     {
         "name": "CADIZ",
-        "image": "src/shop/cadiz.webp"
+        "image": "./src/shop/cadiz.webp"
     },
     {
         "name": "OLIVIA",
-        "image": "src/shop/olivia.webp"
+        "image": "./src/shop/olivia.webp"
     }
 ]
