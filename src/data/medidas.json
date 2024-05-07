@@ -456,5 +456,62 @@
         "largo": "8.3cm",
         "boca": "4.7cm",
         "base": "20cm"
+    }],
+    "CRETA": [{
+        "alto": "8cm",
+        "ancho": "9cm",
+        "largo": "9cm",
+        "boca": "7.5cm",
+        "base": "8cm"
+    },{
+        "alto": "12cm",
+        "ancho": "13cm",
+        "largo": "13cm",
+        "boca": "11cm",
+        "base": "12cm"
+    },{
+        "alto": "16cm",
+        "ancho": "18cm",
+        "largo": "18cm",
+        "boca": "15cm",
+        "base": "16cm"
+    }],
+    "SANTORINI": [{
+        "alto": "8cm",
+        "ancho": "7cm",
+        "largo": "7cm",
+        "boca": "7cm",
+        "base": "7cm"
+    },{
+        "alto": "12cm",
+        "ancho": "11cm",
+        "largo": "11cm",
+        "boca": "11cm",
+        "base": "11cm"
+    },{
+        "alto": "16cm",
+        "ancho": "14.5cm",
+        "largo": "14.5cm",
+        "boca": "14.5cm",
+        "base": "14.5cm"
+    }],
+    "MYKONOS": [{
+        "alto": "11cm",
+        "ancho": "9cm",
+        "largo": "9cm",
+        "boca": "8cm",
+        "base": "8cm"
+    },{
+        "alto": "16cm",
+        "ancho": "13cm",
+        "largo": "13cm",
+        "boca": "11cm",
+        "base": "11cm"
+    },{
+        "alto": "21cm",
+        "ancho": "17cm",
+        "largo": "17cm",
+        "boca": "15cm",
+        "base": "15cm"
     }]
 }
