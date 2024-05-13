@@ -1,14 +1,17 @@
 [
-    {
-      "src": "./src/images/slider/1.webp",
-      "alt": "MATT ERA"
-    },
-    {
-      "src": "./src/images/slider/2.webp",
-      "alt": "20% OFF"
-    },
-    {
-      "src": "./src/images/slider/3.webp",
-      "alt": "COLECCION OTOÑO"
-    }
-  ]
+  {
+    "src": "./src/images/slider/HOT.SALE.50.webp",
+    "alt": "HOT SALE"
+  },{
+    "src": "./src/images/slider/1.webp",
+    "alt": "MATT ERA"
+  },
+  {
+    "src": "./src/images/slider/2.webp",
+    "alt": "20% OFF"
+  },
+  {
+    "src": "./src/images/slider/3.webp",
+    "alt": "COLECCION OTOÑO"
+  }
+]
