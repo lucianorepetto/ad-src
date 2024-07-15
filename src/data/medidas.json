@@ -513,5 +513,18 @@
         "largo": "17cm",
         "boca": "15cm",
         "base": "15cm"
+    }],
+    "FUNGHI": [{
+        "alto": "15cm",
+        "ancho": "12cm",
+        "largo": "12cm",
+        "boca": "7.5cm",
+        "base": "7.5cm"
+    },{
+        "alto": "22cm",
+        "ancho": "17cm",
+        "largo": "17cm",
+        "boca": "10cm",
+        "base": "10cm"
     }]
 }
