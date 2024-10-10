@@ -526,5 +526,12 @@
         "largo": "17cm",
         "boca": "10cm",
         "base": "10cm"
+    }],
+    "SYMPL": [{
+        "alto": "13cm",
+        "ancho": "20cm",
+        "largo": "20cm",
+        "boca": "15cm",
+        "base": "15cm"
     }]
 }
