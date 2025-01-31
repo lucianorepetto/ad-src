@@ -533,5 +533,12 @@
         "largo": "20cm",
         "boca": "15cm",
         "base": "15cm"
+    }],
+    "PERLA": [{
+        "alto": "10cm",
+        "ancho": "14cm",
+        "largo": "12cm",
+        "boca": "-",
+        "base": "-"
     }]
 }
