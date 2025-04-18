@@ -540,5 +540,12 @@
         "largo": "12cm",
         "boca": "-",
         "base": "-"
+    }],
+    "CLOEA": [{
+        "alto": "22cm",
+        "ancho": "18cm",
+        "largo": "18cm",
+        "boca": "-",
+        "base": "-"
     }]
 }
