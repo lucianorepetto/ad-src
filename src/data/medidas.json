@@ -547,5 +547,12 @@
         "largo": "18cm",
         "boca": "-",
         "base": "-"
+    }],
+    "POMME": [{
+        "alto": "20cm",
+        "ancho": "19cm",
+        "largo": "19cm",
+        "boca": "-",
+        "base": "-"
     }]
 }
