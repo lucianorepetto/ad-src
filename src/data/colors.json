@@ -1,0 +1,18 @@
+[
+    { "name": "Blanco", "hex": "#ffffff", "border": "#666666 2px solid", "background": "#e6e6e6", "multiplier": 1 },
+    { "name": "Negro", "hex": "#000000", "border": "#000000 2px solid", "background": "#989595", "multiplier": 1},
+    { "name": "Marfil", "hex": "#F9F2CE", "border": "#F9F2CE 2px solid", "background": "#dcd5bf", "multiplier": 1},
+    { "name": "Camel", "hex": "#AF997B", "border": "#AF997B 2px solid", "background": "#d6c8b9", "multiplier": 1 },
+    { "name": "Chocolate", "hex": "#6e5039", "border": "#6e5039 2px solid", "background": "#977e6b", "multiplier": 1 },
+    { "name": "Rosa", "hex": "#fa88a7", "border": "#fa88a7 2px solid", "background": "#ffb4ca", "multiplier": 1 },
+    { "name": "Chicle", "hex": "#fe8ead", "border": "#fe8ead 2px solid", "background": "#ffb4ca", "multiplier": 1 },
+    { "name": "Acero", "hex": "#7e7b7b", "border": "#7e7b7b 2px solid", "background": "#b6b4b4", "multiplier": 1 },
+    { "name": "Rosa Claro", "hex": "#FFE0D6", "border": "#FFE0D6 2px solid", "background": "#f7e1dc", "multiplier": 1 },
+    { "name": "Lila", "hex": "#DEC4ED", "border": "#DEC4ED 2px solid", "background": "#f4e8fb", "multiplier": 1 },
+    { "name": "Aqua", "hex": "#88E0FB", "border": "#88E0FB 2px solid", "background": "#c5e3e7", "multiplier": 1 },
+    { "name": "Rosa Citric", "hex": "#f09a95", "border": "#f09a95 2px solid", "background": "#ffc2be", "multiplier": 1.2 },
+    { "name": "Esmeralda", "hex": "#008781", "border": "#008781 2px solid", "background": "#ffc2be", "multiplier": 1.2 },
+    { "name": "Lavanda", "hex": "#E0B1F5", "border": "#E0B1F5 2px solid", "background": "#e4cef1", "multiplier": 1.2 },
+    { "name": "Ámbar", "hex": "#ff8c38", "border": "#ff8c38 2px solid", "background": "#ffc2be", "multiplier": 1.2 }
+  ]
+  
