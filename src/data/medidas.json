@@ -554,5 +554,12 @@
         "largo": "19cm",
         "boca": "-",
         "base": "-"
+    }],
+    "DUE": [{
+        "alto": "5cm",
+        "ancho": "12cm",
+        "largo": "20cm",
+        "boca": "-",
+        "base": "-"
     }]
 }
