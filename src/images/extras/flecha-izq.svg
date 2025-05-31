@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_2" width="40px" height="40px" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.62 52.62">
+<svg id="Capa_2"  width="40px" height="40px" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.62 52.62">
   <defs>
     <style>
       .cls-1 {
@@ -18,8 +18,8 @@
     <g>
       <circle class="cls-1" cx="26.31" cy="26.31" r="26.31"/>
       <g>
-        <line class="cls-2" x1="20.05" y1="32.57" x2="32.57" y2="20.05"/>
-        <line class="cls-2" x1="32.57" y1="32.57" x2="20.05" y2="20.05"/>
+        <line class="cls-2" x1="29.87" y1="32.57" x2="22.75" y2="25.45"/>
+        <line class="cls-2" x1="23" y1="26.93" x2="29.87" y2="20.05"/>
       </g>
     </g>
   </g>
