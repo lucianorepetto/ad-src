@@ -3,9 +3,7 @@ importScripts('https://www.gstatic.com/firebasejs/9.23.0/firebase-messaging-comp
 
 firebase.initializeApp({
   apiKey: "AIzaSyCu_mdr8yTU-nZaOWZw3GVwiVlwaqvMdZc",
-  authDomain: "adimensionalshop.firebaseapp.com",
   projectId: "adimensionalshop",
-  storageBucket: "adimensionalshop.appspot.com",
   messagingSenderId: "719117032303",
   appId: "1:719117032303:web:df4a6876bfd5001b3ca69a"
 });
