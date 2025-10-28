@@ -561,5 +561,12 @@
         "largo": "20cm",
         "boca": "-",
         "base": "-"
+    }],
+    "CLAY": [{
+        "alto": "23cm",
+        "ancho": "13cm",
+        "largo": "13cm",
+        "boca": "-",
+        "base": "-"
     }]
 }
