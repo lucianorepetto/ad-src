@@ -568,5 +568,12 @@
         "largo": "13cm",
         "boca": "-",
         "base": "-"
+    }],
+    "CORAL": [{
+        "alto": "16cm",
+        "ancho": "12cm",
+        "largo": "16cm",
+        "boca": "-",
+        "base": "-"
     }]
 }
