@@ -575,5 +575,12 @@
         "largo": "16cm",
         "boca": "-",
         "base": "-"
+    }],
+    "WAVY": [{
+        "alto": "12cm",
+        "ancho": "7.5cm",
+        "largo": "7.5cm",
+        "boca": "7.5cm",
+        "base": "7.5cm"
     }]
 }
