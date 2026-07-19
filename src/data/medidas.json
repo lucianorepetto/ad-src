@@ -1,0 +1,586 @@
+{
+    "VENUS DE ARLES": [{
+            "alto": "10cm",
+            "ancho": "6.8cm",
+            "largo": "8.3cm",
+            "boca": "6.6cm",
+            "base": "6.8cm"
+        },
+        {
+            "alto": "12cm",
+            "ancho": "8cm",
+            "largo": "10cm",
+            "boca": "8cm",
+            "base": "8cm"
+        },
+        {
+            "alto": "15cm",
+            "ancho": "10.2cm",
+            "largo": "12.5cm",
+            "boca": "10cm",
+            "base": "10.2cm"
+        },
+        {
+            "alto": "20cm",
+            "ancho": "13.6cm",
+            "largo": "16.6cm",
+            "boca": "13.2cm",
+            "base": "13.6cm"
+        },
+        {
+            "alto": "24cm",
+            "ancho": "16.3cm",
+            "largo": "20cm",
+            "boca": "16cm",
+            "base": "16cm"
+        }
+    ],
+    "DAVID HEAD": [{
+            "alto": "10cm",
+            "ancho": "6cm",
+            "largo": "6.5cm",
+            "boca": "5.3cm",
+            "base": "4.6cm"
+        },
+        {
+            "alto": "12cm",
+            "ancho": "7.2cm",
+            "largo": "7.8cm",
+            "boca": "6.4cm",
+            "base": "5.5cm"
+        },
+        {
+            "alto": "15cm",
+            "ancho": "9cm",
+            "largo": "9.8cm",
+            "boca": "8cm",
+            "base": "7cm"
+        },
+        {
+            "alto": "20cm",
+            "ancho": "12cm",
+            "largo": "13cm",
+            "boca": "10.6cm",
+            "base": "9.2cm"
+        },
+        {
+            "alto": "24cm",
+            "ancho": "14.5cm",
+            "largo": "15.5cm",
+            "boca": "12.5cm",
+            "base": "11cm"
+        }
+    ],
+    "VENUS DE MILO": [{
+            "alto": "10cm",
+            "ancho": "6cm",
+            "largo": "7cm",
+            "boca": "4cm",
+            "base": "5cm"
+        },
+        {
+            "alto": "12cm",
+            "ancho": "7.2cm",
+            "largo": "8.5cm",
+            "boca": "4.8cm",
+            "base": "6.2cm"
+        },
+        {
+            "alto": "15cm",
+            "ancho": "9cm",
+            "largo": "10.5cm",
+            "boca": "6cm",
+            "base": "7.8cm"
+        },
+        {
+            "alto": "20cm",
+            "ancho": "12cm",
+            "largo": "14.2cm",
+            "boca": "8cm",
+            "base": "10.5cm"
+        },
+        {
+            "alto": "24cm",
+            "ancho": "14.4cm",
+            "largo": "17cm",
+            "boca": "9.5cm",
+            "base": "12.5cm"
+        }
+    ],
+    "VENUS BODY": [{
+            "alto": "10cm",
+            "ancho": "7cm",
+            "largo": "6cm",
+            "boca": "4.5cm",
+            "base": "6cm"
+        },
+        {
+            "alto": "12cm",
+            "ancho": "8.5cm",
+            "largo": "7.5cm",
+            "boca": "5.5cm",
+            "base": "7.5cm"
+        },
+        {
+            "alto": "15cm",
+            "ancho": "10.5cm",
+            "largo": "9.5cm",
+            "boca": "6.7cm",
+            "base": "9.5cm"
+        },
+        {
+            "alto": "20cm",
+            "ancho": "14cm",
+            "largo": "12.5cm",
+            "boca": "9cm",
+            "base": "12.5cm"
+        },
+        {
+            "alto": "24cm",
+            "ancho": "17cm",
+            "largo": "15.12cm",
+            "boca": "10.8cm",
+            "base": "15.12cm"
+        }
+    ],
+    "VICTORIA DE SAMOTRACIA": [{
+            "alto": "15cm",
+            "ancho": "18.9cm",
+            "largo": "24cm",
+            "boca": "5.2cm",
+            "base": "11cm"
+        },
+        {
+            "alto": "20cm",
+            "ancho": "25.2cm",
+            "largo": "32cm",
+            "boca": "7cm",
+            "base": "14.5cm"
+        },
+        {
+            "alto": "24cm",
+            "ancho": "30.2cm",
+            "largo": "38.4cm",
+            "boca": "8.4cm",
+            "base": "17.5cm"
+        }
+    ],
+    "ARTEMISA": [{
+            "alto": "10cm",
+            "ancho": "5.7cm",
+            "largo": "8cm",
+            "boca": "3.7cm",
+            "base": "4.4cm"
+        },
+        {
+            "alto": "12cm",
+            "ancho": "7cm",
+            "largo": "10cm",
+            "boca": "4.5cm",
+            "base": "5.3cm"
+        },
+        {
+            "alto": "15cm",
+            "ancho": "8.5cm",
+            "largo": "12cm",
+            "boca": "5.5cm",
+            "base": "6.5cm"
+        },
+        {
+            "alto": "20cm",
+            "ancho": "11.5cm",
+            "largo": "16cm",
+            "boca": "7.5cm",
+            "base": "8.8cm"
+        }
+    ],
+    "COLUMNA GRIEGA": [{
+            "alto": "10cm",
+            "ancho": "7cm",
+            "largo": "7cm",
+            "boca": "3.8cm",
+            "base": "7cm"
+        },
+        {
+            "alto": "12cm",
+            "ancho": "8.4cm",
+            "largo": "8.4cm",
+            "boca": "4.5cm",
+            "base": "8.4cm"
+        },
+        {
+            "alto": "15cm",
+            "ancho": "10.5cm",
+            "largo": "10.5cm",
+            "boca": "5.7cm",
+            "base": "10.5cm"
+        },
+        {
+            "alto": "20cm",
+            "ancho": "14cm",
+            "largo": "14cm",
+            "boca": "7.6cm",
+            "base": "14cm"
+        }
+    ],
+    "MILO NOT-NECK": [{
+            "alto": "8cm",
+            "ancho": "9cm",
+            "largo": "11.7cm",
+            "boca": "7cm",
+            "base": "7cm"
+        },
+        {
+            "alto": "10cm",
+            "ancho": "11.2cm",
+            "largo": "14.5cm",
+            "boca": "8.5cm",
+            "base": "8.5cm"
+        },
+        {
+            "alto": "12cm",
+            "ancho": "13.5cm",
+            "largo": "17.5cm",
+            "boca": "10.5cm",
+            "base": "10.5cm"
+        }
+    ],
+    "DAVID NOT-NECK": [{
+            "alto": "8cm",
+            "ancho": "8.6cm",
+            "largo": "8.8cm",
+            "boca": "7cm",
+            "base": "7cm"
+        },
+        {
+            "alto": "10cm",
+            "ancho": "10.5cm",
+            "largo": "11cm",
+            "boca": "8.5cm",
+            "base": "8.5cm"
+        },
+        {
+            "alto": "12cm",
+            "ancho": "12.9cm",
+            "largo": "13.2cm",
+            "boca": "10.5cm",
+            "base": "10.5cm"
+        }
+    ],
+    "KIANA": [{
+        "alto": "10cm",
+        "ancho": "7.5cm",
+        "largo": "7.5cm",
+        "boca": "6.7cm",
+        "base": "6.7cm"
+    }],
+    "NOAH": [{
+            "alto": "2cm",
+            "ancho": "10cm",
+            "largo": "10cm",
+            "boca": "8cm",
+            "base": "10cm"
+        },
+        {
+            "alto": "6cm",
+            "ancho": "5cm",
+            "largo": "5cm",
+            "boca": "4cm",
+            "base": "5cm"
+        },
+        {
+            "alto": "8cm",
+            "ancho": "10cm",
+            "largo": "10cm",
+            "boca": "8cm",
+            "base": "10cm"
+        },
+        {
+            "alto": "10cm",
+            "ancho": "12.5cm",
+            "largo": "12.5cm",
+            "boca": "10cm",
+            "base": "12.5cm"
+        }
+    ],
+    "APOLO NOT-NECK": [{
+            "alto": "8cm",
+            "ancho": "7.2cm",
+            "largo": "7.8cm",
+            "boca": "4.5cm",
+            "base": "6.5cm"
+        },
+        {
+            "alto": "10cm",
+            "ancho": "9cm",
+            "largo": "9.5cm",
+            "boca": "5.5cm",
+            "base": "8cm"
+        },
+        {
+            "alto": "12cm",
+            "ancho": "10.8cm",
+            "largo": "11.5cm",
+            "boca": "6.5cm",
+            "base": "9.5cm"
+        }
+    ],
+    "DONUT": [{
+            "alto": "16cm",
+            "ancho": "15cm",
+            "largo": "5cm",
+            "boca": "3.7cm",
+            "base": "7.5cm"
+        },
+        {
+            "alto": "23cm",
+            "ancho": "22cm",
+            "largo": "7.2cm",
+            "boca": "4cm",
+            "base": "9cm"
+        }
+    ],
+    "SEMI DONUT": [{
+            "alto": "13cm",
+            "ancho": "15cm",
+            "largo": "5cm",
+            "boca": "3.7cm",
+            "base": "15cm"
+        },
+        {
+            "alto": "18cm",
+            "ancho": "22cm",
+            "largo": "7.5cm",
+            "boca": "5.7cm",
+            "base": "22.5cm"
+        }
+    ],
+    "FLAT DONUT": [{
+            "alto": "10cm",
+            "ancho": "15cm",
+            "largo": "5cm",
+            "boca": "3.7cm",
+            "base": "15cm"
+        },
+        {
+            "alto": "15cm",
+            "ancho": "22cm",
+            "largo": "7.5cm",
+            "boca": "5.7cm",
+            "base": "22.5cm"
+        }
+    ],
+    "SHELL": [{
+            "largo": "9cm",
+            "alto": "1.2cm",
+            "ancho": "10cm",
+            "boca": "-",
+            "base": "-"
+        },
+        {
+            "largo": "11cm",
+            "alto": "1.4cm",
+            "ancho": "12.3cm",
+            "boca": "-",
+            "base": "-"
+        }
+    ],
+    "OLIVIA": [{
+            "alto": "13cm",
+            "ancho": "7.7cm",
+            "largo": "7.7cm",
+            "boca": "4.7cm",
+            "base": "4.7cm"
+        },
+        {
+            "alto": "20cm",
+            "ancho": "12cm",
+            "largo": "12cm",
+            "boca": "7cm",
+            "base": "7cm"
+        },
+        {
+            "alto": "24cm",
+            "ancho": "14cm",
+            "largo": "14cm",
+            "boca": "8cm",
+            "base": "8cm"
+        }
+    ],
+    "CADIZ": [{
+            "alto": "15cm",
+            "ancho": "11cm",
+            "largo": "11cm",
+            "boca": "6.2cm",
+            "base": "8cm"
+        },
+        {
+            "alto": "20cm",
+            "ancho": "15cm",
+            "largo": "15cm",
+            "boca": "8cm",
+            "base": "11cm"
+        },
+        {
+            "alto": "24cm",
+            "ancho": "18cm",
+            "largo": "18cm",
+            "boca": "10cm",
+            "base": "13cm"
+        }
+    ],
+    "HONEY": [{
+        "alto": "20cm",
+        "ancho": "11cm",
+        "largo": "11cm",
+        "boca": "3cm",
+        "base": "6.5cm"
+    }],
+    "CURVE": [{
+        "alto": "15cm",
+        "ancho": "18cm",
+        "largo": "7cm",
+        "boca": "6.5cm",
+        "base": "9.3cm"
+    }],
+    "BONUT": [{
+        "alto": "16cm",
+        "ancho": "17.5cm",
+        "largo": "5cm",
+        "boca": "3.6cm",
+        "base": "11cm"
+    }],
+    "SEMI BONUT": [{
+        "alto": "22cm",
+        "ancho": "20cm",
+        "largo": "8.3cm",
+        "boca": "4.7cm",
+        "base": "20cm"
+    }],
+    "CRETA": [{
+        "alto": "8cm",
+        "ancho": "9cm",
+        "largo": "9cm",
+        "boca": "7.5cm",
+        "base": "8cm"
+    },{
+        "alto": "12cm",
+        "ancho": "13cm",
+        "largo": "13cm",
+        "boca": "11cm",
+        "base": "12cm"
+    },{
+        "alto": "16cm",
+        "ancho": "18cm",
+        "largo": "18cm",
+        "boca": "15cm",
+        "base": "16cm"
+    }],
+    "SANTORINI": [{
+        "alto": "8cm",
+        "ancho": "7cm",
+        "largo": "7cm",
+        "boca": "7cm",
+        "base": "7cm"
+    },{
+        "alto": "12cm",
+        "ancho": "11cm",
+        "largo": "11cm",
+        "boca": "11cm",
+        "base": "11cm"
+    },{
+        "alto": "16cm",
+        "ancho": "14.5cm",
+        "largo": "14.5cm",
+        "boca": "14.5cm",
+        "base": "14.5cm"
+    }],
+    "MYKONOS": [{
+        "alto": "11cm",
+        "ancho": "9cm",
+        "largo": "9cm",
+        "boca": "8cm",
+        "base": "8cm"
+    },{
+        "alto": "16cm",
+        "ancho": "13cm",
+        "largo": "13cm",
+        "boca": "11cm",
+        "base": "11cm"
+    },{
+        "alto": "21cm",
+        "ancho": "17cm",
+        "largo": "17cm",
+        "boca": "15cm",
+        "base": "15cm"
+    }],
+    "FUNGHI": [{
+        "alto": "15cm",
+        "ancho": "12cm",
+        "largo": "12cm",
+        "boca": "7.5cm",
+        "base": "7.5cm"
+    },{
+        "alto": "22cm",
+        "ancho": "17cm",
+        "largo": "17cm",
+        "boca": "10cm",
+        "base": "10cm"
+    }],
+    "SYMPL": [{
+        "alto": "13cm",
+        "ancho": "20cm",
+        "largo": "20cm",
+        "boca": "15cm",
+        "base": "15cm"
+    }],
+    "PERLA": [{
+        "alto": "10cm",
+        "ancho": "14cm",
+        "largo": "12cm",
+        "boca": "-",
+        "base": "-"
+    }],
+    "CLOEA": [{
+        "alto": "22cm",
+        "ancho": "18cm",
+        "largo": "18cm",
+        "boca": "-",
+        "base": "-"
+    }],
+    "POMME": [{
+        "alto": "20cm",
+        "ancho": "19cm",
+        "largo": "19cm",
+        "boca": "-",
+        "base": "-"
+    }],
+    "DUE": [{
+        "alto": "5cm",
+        "ancho": "12cm",
+        "largo": "20cm",
+        "boca": "-",
+        "base": "-"
+    }],
+    "CLAY": [{
+        "alto": "23cm",
+        "ancho": "13cm",
+        "largo": "13cm",
+        "boca": "-",
+        "base": "-"
+    }],
+    "CORAL": [{
+        "alto": "16cm",
+        "ancho": "12cm",
+        "largo": "16cm",
+        "boca": "-",
+        "base": "-"
+    }],
+    "WAVY": [{
+        "alto": "12cm",
+        "ancho": "7.5cm",
+        "largo": "7.5cm",
+        "boca": "7.5cm",
+        "base": "7.5cm"
+    }]
+}
