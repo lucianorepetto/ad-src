@@ -1,0 +1,53 @@
+<svg width="148" height="75" viewBox="0 0 148 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.38" stroke="#4E5C66" stroke-width="1.1">
+
+    <!-- Contorno de cancha -->
+    <rect x="1" y="1" width="146" height="73" rx="0.5"/>
+
+    <!-- Linea central -->
+    <line x1="74" y1="1" x2="74" y2="74"/>
+
+    <!-- Circulo central -->
+    <circle cx="74" cy="37.5" r="13.2"/>
+
+    <!-- Punto central -->
+    <circle cx="74" cy="37.5" r="1.1" fill="#4E5C66" stroke="none"/>
+
+    <!-- Area grande izquierda -->
+    <rect x="1" y="16.5" width="25" height="42"/>
+
+    <!-- Area chica izquierda -->
+    <rect x="1" y="27" width="11" height="21"/>
+
+    <!-- Arco / porteria izquierda -->
+    <rect x="1" y="32" width="4.5" height="11"/>
+
+    <!-- Punto penal izquierdo -->
+    <circle cx="18.5" cy="37.5" r="0.9" fill="#4E5C66" stroke="none"/>
+
+    <!-- Semicirculo area izquierda -->
+    <path d="M26 29.5C30.5 32.2 33 34.9 33 37.5C33 40.1 30.5 42.8 26 45.5"/>
+
+    <!-- Area grande derecha -->
+    <rect x="122" y="16.5" width="25" height="42"/>
+
+    <!-- Area chica derecha -->
+    <rect x="136" y="27" width="11" height="21"/>
+
+    <!-- Arco / porteria derecha -->
+    <rect x="142.5" y="32" width="4.5" height="11"/>
+
+    <!-- Punto penal derecho -->
+    <circle cx="129.5" cy="37.5" r="0.9" fill="#4E5C66" stroke="none"/>
+
+    <!-- Semicirculo area derecha -->
+    <path d="M122 29.5C117.5 32.2 115 34.9 115 37.5C115 40.1 117.5 42.8 122 45.5"/>
+
+    <!-- Marcas de esquina -->
+    <path d="M1 7C4.3 7 7 4.3 7 1"/>
+    <path d="M147 7C143.7 7 141 4.3 141 1"/>
+    <path d="M1 68C4.3 68 7 70.7 7 74"/>
+    <path d="M147 68C143.7 68 141 70.7 141 74"/>
+
+  </g>
+</svg>
